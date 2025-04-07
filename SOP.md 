@@ -1,0 +1,69 @@
+# 📜 Statement of Purpose
+
+## ✨ Introduction
+
+My name is **Sanjana**, and I am a first-year B.Tech student, currently pursuing **Computer Science and Engineering (AI & ML)** at Newton School of Technology, Pune.
+
+I’ve always believed that true learning begins when theory meets action. My love for problem-solving, especially **DSA**, stems from the thrill of decoding challenges. When I came across this internship task just **two days ago**, it immediately caught my eye. The short deadline felt intense, but instead of stepping back, I leaned in. The idea of creating a **GUI logic simulator** felt exciting and a bit daring—and that's what made it even more irresistible.
+
+This SOP captures my journey, process, and learnings as I built the project titled **"Logic Nodes – GUI Simulation of Digital Gates."**
+
+---
+
+## 🧠 How Did I Begin?
+
+I began with curiosity and a blank VS Code window. I watched a few YouTube tutorials to understand how logic gates are built in GUI-based apps, particularly with PyQt. I didn’t just want to copy; I wanted to *learn*. So, I dived deep into understanding how **node-based editors** work and how the drag-and-drop interfaces can be implemented.
+
+With every attempt—whether a working wire connection or a frustrating bug—I felt more connected to what I was building. That sense of watching your knowledge come alive on screen? It's unbeatable. 💫
+
+---
+
+## 🔧 Tools & Environment
+
+- **Code Editor:** Visual Studio Code
+- **Framework:** PyQt5 (for GUI development)
+- **Language:** Python
+- **Documentation:** Markdown (`SOP.md`, `README.md`)
+- **Assets:** Screenshots of the GUI and node connections
+- **Features Built:**
+  - Topbar with File (New, Open, Save, Exit), Edit (Undo, Redo, Cut, Copy, Paste, Delete), and Window (Theme switch)
+  - Side panel with drag-and-drop logic gate nodes
+  - Logic gates: AND, OR, NOT
+  - Input & Output nodes
+  - Node connections with working socket logic
+  - Output node displaying final evaluated result
+
+---
+
+## 🌱 What I Learned
+
+This task brought me back to high school memories—especially the **“Semiconductors”** chapter, where I first encountered logic gates. It felt poetic, revisiting that foundational concept and now bringing it to life in a full-fledged GUI.
+
+I faced multiple challenges:
+- Designing the **side panel** with visible draggable logic gates
+- Managing **socket connections** for the correct number of inputs and outputs
+- Implementing the **file operations** and customizing node behaviors
+
+But with each challenge, I grew. I looked up docs, debugged relentlessly, and slowly, everything started to take shape. The most fulfilling part? Seeing my circuit finally produce the correct output!
+
+---
+
+## ✅ Final Result
+
+- **Did your final output come out right?**  
+  > Yes, absolutely. The output matches the expected result based on the logic circuit connections.
+
+- **Did it match the expected result?**  
+  > Yes! All logic gates performed their functions accurately, and the output node displayed the correct final value based on given inputs.
+
+---
+
+## ❤️ Final Thoughts
+
+This was not just a task—it was a creative, technical, and emotional experience. I enjoyed every minute of it. The thrill of completing it within 2 days added fuel to my curiosity and confidence. I’d love to continue working on similar challenges where innovation, logic, and learning walk hand in hand.
+
+Thank you for this opportunity. 🌟
+
+---
+
+*Made with ❤️ by Sanjana*
